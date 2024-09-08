@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504791388713",
+    "project_id": "fire-base-finanacenew",
+    "storage_bucket": "fire-base-finanacenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504791388713:android:9cd2b79d760f515313c238",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnn0GkYO0vqSslzf8yL57NxFpFznb9zTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
